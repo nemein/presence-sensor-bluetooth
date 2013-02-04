@@ -1,5 +1,5 @@
 /*
-    Bluetooth sensor for Nemein's Smart Workplace
+    Office presence sensor monitoring Bluetooth devices
     Copyright (C) 2012-2013 Tuomas Haapala, Nemein <tuomas@nemein.com>
 */
 

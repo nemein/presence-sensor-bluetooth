@@ -1,5 +1,5 @@
 /*
-    Common sensor code for Nemein's Smart Workplace
+    Office presence sensors' common parts
     Copyright (C) 2012-2013 Tuomas Haapala, Nemein <tuomas@nemein.com>
 */
 

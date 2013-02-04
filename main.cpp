@@ -1,3 +1,8 @@
+/*
+    Office presence sensor monitoring Bluetooth devices
+    Copyright (C) 2012-2013 Tuomas Haapala, Nemein <tuomas@nemein.com>
+*/
+
 #include <string>
 #include "bluetoothsensor.h"
 
