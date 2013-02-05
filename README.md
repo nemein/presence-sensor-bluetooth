@@ -10,7 +10,7 @@ Requires Linux. Tested with Ubuntu 10.04 and Ubuntu 12.04.
 * [iniParser](http://ndevilla.free.fr/iniparser/)
 * [JsonCpp](http://jsoncpp.sourceforge.net/)
 
-Source codes for **iniParser** and **JsonCpp** are included in subdirectory `sensor_common/external`. The other dependencies can be installed with command
+Source codes of **iniParser** and **JsonCpp** are included in subdirectory `sensor_common/external`. The other dependencies can be installed with command
 
     $ sudo apt-get install libbluetooth-dev libmosquitto1-dev libcurl4-openssl-dev
     
