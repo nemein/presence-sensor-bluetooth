@@ -28,10 +28,10 @@ Start the sensor with
 
     $ ./BluetoothSensor
     
-Use **CTRL-C** to quit. 
+Use **CTRL-C** to quit. Settings can be altered by modifying file `config.ini`.
 
-Settings can be altered by modifying file `config.ini`.
-
+## License
+This software is available under the LGPL license and has been developed by [Nemein](http://nemein.com) as part of the EU-funded [SmarcoS project](http://smarcos-project.eu/).
     
     
     
