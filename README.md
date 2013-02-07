@@ -1,7 +1,7 @@
 # Office presence Bluetooth sensor
 ==================================
 
-Requires Linux. Tested with Ubuntu 10.04 and Ubuntu 12.04.
+Requires Linux. Tested with Ubuntu 12.04.
 
 ## Dependencies
 * [BlueZ](http://www.bluez.org/)
@@ -12,7 +12,7 @@ Requires Linux. Tested with Ubuntu 10.04 and Ubuntu 12.04.
 
 Source codes of **iniParser** and **JsonCpp** are included in subdirectory `sensor_common/external`. The other dependencies can be installed with command
 
-    $ sudo apt-get install libbluetooth-dev libmosquitto1-dev libcurl4-openssl-dev
+    $ sudo apt-get install libbluetooth-dev libmosquitto0-dev libcurl4-openssl-dev
     
 ## Building
 Building requires **GNU compiler**. If for some reason it isn't installed already, it can be installed with command
